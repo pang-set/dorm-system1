@@ -1,0 +1,89 @@
+// 主色调
+$primary-color: #1890ff;
+$primary-light: #40a9ff;
+$primary-dark: #096dd9;
+$primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+$success-color: #52c41a;
+$warning-color: #faad14;
+$danger-color: #ff4d4f;
+$info-color: #909399;
+
+// 渐变色
+$blue-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+$pink-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+$cyan-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+$green-gradient: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+$orange-gradient: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+$purple-gradient: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
+
+// 文字
+$text-primary: #303133;
+$text-regular: #606266;
+$text-secondary: #909399;
+$text-placeholder: #c0c4cc;
+
+// 边框
+$border-base: #dcdfe6;
+$border-light: #e4e7ed;
+$border-lighter: #ebeef5;
+$border-extra-light: #f2f6fc;
+
+// 背景
+$bg-page: #f0f2f5;
+$bg-white: #ffffff;
+$bg-light: #f5f7fa;
+$bg-card: #ffffff;
+
+// 阴影
+$shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.04);
+$shadow-base: 0 2px 8px rgba(0, 0, 0, 0.08);
+$shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+$shadow-card: 0 2px 12px rgba(0, 0, 0, 0.06);
+$shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.1);
+
+// 圆角
+$radius-sm: 4px;
+$radius-base: 6px;
+$radius-lg: 8px;
+$radius-xl: 12px;
+$radius-circle: 50%;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 20px;
+$spacing-xl: 24px;
+$spacing-2xl: 32px;
+
+
+$font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+  'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial,
+  sans-serif;
+
+$font-size-xs: 12px;
+$font-size-sm: 13px;
+$font-size-base: 14px;
+$font-size-md: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 20px;
+$font-size-2xl: 24px;
+$font-size-3xl: 32px;
+
+// 动画
+$transition-fast: 0.2s ease;
+$transition-base: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// 侧边栏
+$sidebar-width: 220px;
+$sidebar-collapsed-width: 64px;
+$sidebar-bg: #001529;
+$sidebar-bg-light: #1f2d3d;
+$sidebar-text: #bfcbd9;
+$sidebar-text-active: #ffffff;
+$sidebar-active-bg: #1890ff;
+
+// 头部
+$header-height: 60px;
+$header-bg: #ffffff;
